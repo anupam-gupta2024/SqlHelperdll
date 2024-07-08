@@ -1,0 +1,5 @@
+E:\Anupam Gupta\Window\SqlHelperdll\SqlHelperdll\bin\Debug\SqlHelperdll.dll
+E:\Anupam Gupta\Window\SqlHelperdll\SqlHelperdll\bin\Debug\SqlHelperdll.pdb
+E:\Anupam Gupta\Window\SqlHelperdll\SqlHelperdll\obj\Debug\ResolveAssemblyReference.cache
+E:\Anupam Gupta\Window\SqlHelperdll\SqlHelperdll\obj\Debug\SqlHelperdll.dll
+E:\Anupam Gupta\Window\SqlHelperdll\SqlHelperdll\obj\Debug\SqlHelperdll.pdb
